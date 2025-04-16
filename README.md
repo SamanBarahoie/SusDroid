@@ -1,6 +1,8 @@
 # 📱 SusDroid
 
-> Static analyzer for Android APKs to detect suspicious behaviors using regex.
+> SusDroid helps you scan Android apps for hidden and suspicious behaviors (like spying or hidden SMS sending) using pattern matching on the app’s internal files.
+
+
 
 ---
 
